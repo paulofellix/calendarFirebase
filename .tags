@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+name	/var/www/html/cal/package.json	/^  "name": "cal",$/;"	function	line:2
+version	/var/www/html/cal/package.json	/^  "version": "1.0.0",$/;"	function	line:3
+description	/var/www/html/cal/package.json	/^  "description": "",$/;"	function	line:4
+main	/var/www/html/cal/package.json	/^  "main": "index.js",$/;"	function	line:5
+scripts	/var/www/html/cal/package.json	/^  "scripts": {$/;"	function	line:6
+test	/var/www/html/cal/package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	function	line:7
+author	/var/www/html/cal/package.json	/^  "author": "",$/;"	function	line:9
+license	/var/www/html/cal/package.json	/^  "license": "ISC",$/;"	function	line:10
+devDependencies	/var/www/html/cal/package.json	/^  "devDependencies": {$/;"	function	line:11
+fullcalendar	/var/www/html/cal/package.json	/^    "fullcalendar": "^3.0.1"$/;"	function	line:12
